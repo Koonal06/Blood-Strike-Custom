@@ -3,6 +3,9 @@ Blood Strike Custom Skins &amp; Textures Mod 2026 PC
 
 [Click here to install ](https://share.google/1N9K2l5UEq6kfNoJ0)
 
+![Preview](preview.jpg)
+
+
 ![GitHub release](https://img.shields.io/github/v/release/[your-username]/[repo-name])
 ![Platform](https://img.shields.io/badge/platform-PC-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
